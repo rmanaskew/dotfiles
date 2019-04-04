@@ -10,8 +10,8 @@ syntax on
 execute pathogen#infect()
 
 " Filetype scpecific configs
-source ~/.vim/rcs/python.vim
-source ~/.vim/rcs/javascript.vim
+source ~/dotfiles/vim/rcs/python.vim
+source ~/dotfiles/vim/rcs/javascript.vim
 
 " Plugin specific
-sourc ~/.vim/rcs/airline.vim
+sourc ~/dotfiles/vim/rcs/airline.vim
