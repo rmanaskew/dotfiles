@@ -1,0 +1,17 @@
+" Basics
+set nocompatible
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set pastetoggle=<f5>
+filetype plugin indent on
+syntax on
+
+execute pathogen#infect()
+
+" Filetype scpecific configs
+source ~/.vim/rcs/python.vim
+source ~/.vim/rcs/javascript.vim
+
+" Plugin specific
+sourc ~/.vim/rcs/airline.vim
