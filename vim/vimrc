@@ -14,4 +14,4 @@ source ~/dotfiles/vim/rcs/python.vim
 source ~/dotfiles/vim/rcs/javascript.vim
 
 " Plugin specific
-sourc ~/dotfiles/vim/rcs/airline.vim
+source ~/dotfiles/vim/rcs/airline.vim
